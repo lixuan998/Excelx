@@ -1,4 +1,4 @@
-#include "../include/add_image_thread.h"
+#include "add_image_thread.h"
 
 Add_Image_Thread::Add_Image_Thread()
 {

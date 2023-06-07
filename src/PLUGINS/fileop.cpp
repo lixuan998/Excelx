@@ -6,7 +6,7 @@ Date:  2023-2-19
 Description:  A function implementation of fileop.h
 ****************************************************/
 
-#include "../include/fileop.h"
+#include "fileop.h"
 
 /*---------------
 Public Functions

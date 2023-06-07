@@ -1,5 +1,5 @@
-﻿#include "../include/info.h"
-#include "../../XML/include/xmlop.h"
+﻿#include "info.h"
+#include "xmlop.h"
 
 /*---------------
 Public Functions
