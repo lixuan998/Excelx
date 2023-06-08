@@ -1,7 +1,7 @@
 # Excelx C++ Library
 
 该库的作用是在代码中实现对excel文档(.xlsx格式)的一些操作
-- [Wordx](https://github.com/lixuan998/wordx_qt)
+- [Wordx](https://github.com/lixuan998/Wordx)
 
 
 ## 功能
